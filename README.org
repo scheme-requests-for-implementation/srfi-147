@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=syntax][Syntax]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-147/][SRFI 147]]: Custom macro transformers, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
